@@ -1,0 +1,7 @@
+#!/bin/sh
+# Bildschirmschoner aus
+xset s off
+# Stromsparmodus für den Monitor aus
+xset -dpms 
+#xtightvncviewer -fullscreen -viewonly -autopass ff-kl-heidorn&
+~/bin/start_einsatzmonitor.sh &
