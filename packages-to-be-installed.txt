@@ -1,0 +1,8 @@
+icewm						install
+icewm						install
+imagemagick					install
+jp2a						install
+lightdm						install
+ssvncviewer					install
+vim						install
+x11-xserver-utils				install
