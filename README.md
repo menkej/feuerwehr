@@ -15,3 +15,8 @@ Hier werden Konfigurationen und Programme/Tools gesammelt, um die technische Inf
 * VNC beschreiben
 * Konfiguration des Windows Rechners
 * Backup
+* Automatisches Setup vom Raspi
+	* Pakete
+	* Crontab
+	* Links
+* Mailversand, vielleicht so wie in 
