@@ -15,3 +15,7 @@ Hier werden Konfigurationen und Programme/Tools gesammelt, um die technische Inf
 * VNC beschreiben
 * Konfiguration des Windows Rechners
 * Backup
+* Script zum Anlegen von Symlinks auf den Git-Checkout erstellen
+
+https://forum.ubuntuusers.de/topic/ubuntu-12-04-14-04-mail-versenden-in-der-bash-/?highlight=mailx#post-6265947
+[//]: # vim: tw=80
