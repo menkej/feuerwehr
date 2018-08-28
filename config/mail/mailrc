@@ -1,0 +1,24 @@
+ # set smtp for mailx
+ 
+ # (default)
+ set from="raspi@feuerwehr-kleinheidorn.de"
+ set sendmail="/usr/bin/msmtp"
+ set message-sendmail-extra-arguments="-a 1und1"
+ 
+ account gmx {
+ set from="username@gmx.de (Your name) send from command line"
+ set sendmail="/usr/bin/msmtp"
+ set message-sendmail-extra-arguments="-a gmx"
+ }
+ 
+ account google {
+ set from="username@gmail.com (Your Name) send from command line"
+ set sendmail="/usr/bin/msmtp"
+ set message-sendmail-extra-arguments="-a google"
+ }
+
+account 1und1 {
+ set from="raspi@feuerwehr-kleinheidorn.de (Your Name) send from command line"
+ set sendmail="/usr/bin/msmtp"
+ set message-sendmail-extra-arguments="-a 1und1"
+ }
